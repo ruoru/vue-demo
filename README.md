@@ -48,7 +48,7 @@ sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```
 3. 安装vue
 ``` shell
-sudo npm install --global vue-cli
+sudo npm install -g vue-cli
 ```
 4. 执行过程
 ![执行过程](document/WX20170429-175827@2x.png)
